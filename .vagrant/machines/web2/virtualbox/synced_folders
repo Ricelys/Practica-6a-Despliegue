@@ -1,0 +1,1 @@
+{"virtualbox":{"/var/www/html":{"guestpath":"/var/www/html","hostpath":"C:/Users/ricel/Downloads/Practica 6a Despliegue/html","disabled":false,"__vagrantfile":true},"/vagrant":{"guestpath":"/vagrant","hostpath":"C:/Users/ricel/Downloads/Practica 6a Despliegue","disabled":false,"__vagrantfile":true}}}
